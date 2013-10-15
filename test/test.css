@@ -1,14 +1,18 @@
-landscape:geometry {
-	gamma: 1;
+all {
+	saturation: -100;
+}
+
+landscape {
+	color: #fff;
 }
 
 water {
-	hue: #ccc;
-	saturation: 10;
+	color: #0c0;
+	saturation: '100';
 }
 
-:labels {
-	hue: #aaa;
+poi, :labels.icon {
+	visibility: "off";
 }
 
 /* this rule will be ignored since it's invalid */
