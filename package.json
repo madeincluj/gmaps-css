@@ -3,5 +3,13 @@
   "version": "0.1.0",
   "dependencies": {
     "css-parse": "~1.5.3"
+  },
+  "main": "lib/gmaps-css.js",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/madeincluj/gmaps-css"
+  },
+  "bin": {
+  	"gmaps-css": "./bin/gmaps-css"
   }
 }
