@@ -10,3 +10,8 @@ water {
 :labels {
 	hue: #aaa;
 }
+
+/* this rule will be ignored since it's invalid */
+:trees {
+	hue: #bbb;
+}
