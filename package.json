@@ -1,13 +1,21 @@
 {
   "name": "gmaps-css",
   "version": "0.1.0",
+  "author": "Dan Burzo",
+  "homepage": "http://danburzo.ro",
   "dependencies": {
     "css-parse": "~1.5.3"
   },
   "main": "lib/gmaps-css.js",
   "repository": {
   	"type": "git",
-  	"url": "https://github.com/madeincluj/gmaps-css"
+  	"url": "git://github.com/madeincluj/gmaps-css.git"
+  },
+  "bugs": {
+    "url": "http://github.com/madeincluj/gmaps-css/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
   },
   "bin": {
   	"gmaps-css": "./bin/gmaps-css"
