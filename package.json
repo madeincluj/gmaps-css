@@ -1,7 +1,7 @@
 {
   "name": "gmaps-css",
   "description": "Write custom Google Maps styles in familiar CSS syntax.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Dan Burzo",
   "homepage": "http://danburzo.ro",
   "dependencies": {
@@ -9,8 +9,8 @@
   },
   "main": "lib/gmaps-css.js",
   "repository": {
-  	"type": "git",
-  	"url": "git://github.com/madeincluj/gmaps-css.git"
+    "type": "git",
+    "url": "git://github.com/madeincluj/gmaps-css.git"
   },
   "bugs": {
     "url": "http://github.com/madeincluj/gmaps-css/issues"
@@ -19,6 +19,6 @@
     "node": ">= 0.8.0"
   },
   "bin": {
-  	"gmaps-css": "./bin/gmaps-css"
+    "gmaps-css": "./bin/gmaps-css"
   }
 }
