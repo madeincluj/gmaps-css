@@ -1,4 +1,12 @@
 gmaps-css
 =========
 
-Write custom styles for Google Maps using CSS syntax.
+Write custom Google Maps styles in familiar CSS syntax.
+
+### Installation
+
+`npm install gmaps-css`
+
+### Usage
+
+`gmaps-css style.css style.js`

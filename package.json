@@ -1,5 +1,6 @@
 {
   "name": "gmaps-css",
+  "description": "Write custom Google Maps styles in familiar CSS syntax.",
   "version": "0.1.0",
   "author": "Dan Burzo",
   "homepage": "http://danburzo.ro",
