@@ -5,7 +5,8 @@
   "author": "Dan Burzo",
   "homepage": "http://danburzo.ro",
   "dependencies": {
-    "css-parse": "~1.5.3"
+    "css-parse": "~1.5.3",
+    "color": "~0.4.4"
   },
   "main": "lib/gmaps-css.js",
   "repository": {
