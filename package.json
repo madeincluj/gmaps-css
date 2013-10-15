@@ -1,0 +1,7 @@
+{
+  "name": "gmaps-css",
+  "version": "0.1.0",
+  "dependencies": {
+    "css-parse": "~1.5.3"
+  }
+}
